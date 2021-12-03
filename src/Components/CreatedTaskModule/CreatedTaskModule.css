@@ -1,0 +1,17 @@
+.d-flex {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+.card-wrapper.input > input {
+  width: 415px;
+}
+.card-wrapper.cards > .card {
+  width: 500px;
+}
+.delete {
+  margin: 0 !important;
+}
+.delete-button {
+  border-radius: 50% !important;
+}
